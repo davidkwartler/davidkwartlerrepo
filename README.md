@@ -1,3 +1,3 @@
 Hello CVP team! This is my readme file
 
-New read me
+Closing an issue with a pull request this is text
