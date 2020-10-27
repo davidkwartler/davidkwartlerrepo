@@ -1,3 +1,1 @@
-Hello CVP team! This is my readme file
-
-Closing an issue with a pull request this is text
+[![GitHub](https://img.shields.io/github/license/davidkwartler/davidkwartlerrepo)](https://github.com/davidkwartler/davidkwartlerrepo/blob/master/LICENSE)
